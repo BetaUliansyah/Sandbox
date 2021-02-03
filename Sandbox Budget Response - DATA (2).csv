@@ -1,0 +1,497 @@
+kode_prov,kode_kab,kode,nama_pemda,tkdd_pendapatan,tkdd_belanja,perubahan_apbd,grouping
+16,72,1672,KOTA PAGAR ALAM,"0,87","0,87","-0,24",mandiri
+65,4,6504,TANA TIDUNG,"0,86","0,81","-0,03",mandiri
+81,72,8172,KOTA TUAL,"0,85","0,85","-1,00",mandiri
+64,11,6411,MAHAKAM ULU,"0,85","0,79","-0,46",mandiri
+91,10,9110,SARMI,"0,85","0,85","-1,00",mandiri
+82,72,8272,KOTA TIDORE KEPULAUAN,"0,84","0,83","-0,10",mandiri
+74,10,7410,BUTON UTARA,"0,84","0,82","-0,12",mandiri
+82,5,8205,KEPULAUAN SULA,"0,84","0,80","-0,12",mandiri
+16,6,1606,MUSI BANYUASIN,"0,83","0,80","-0,40",mandiri
+12,15,1215,PAKPAK BHARAT,"0,83","0,81","-0,11",mandiri
+91,19,9119,SUPIORI,"0,83","0,79","-1,00",mandiri
+91,20,9120,MAMBERAMO RAYA,"0,83","0,77","-1,00",mandiri
+16,73,1673,KOTA LUBUKLINGGAU,"0,83","0,86","-0,25",mandiri
+74,7,7407,WAKATOBI,"0,83","0,80","-0,11",mandiri
+52,72,5272,KOTA BIMA,"0,82","0,74","-0,20",mandiri
+91,21,9121,MAMBERAMO TENGAH,"0,82","0,78",#DIV/0!,mandiri
+74,12,7412,KONAWE KEPULAUAN,"0,82","0,81",#DIV/0!,mandiri
+13,9,1309,KEPULAUAN MENTAWAI,"0,82","0,79","-0,20",mandiri
+21,5,2105,KEPULAUAN ANAMBAS,"0,82","0,71","-1,00",mandiri
+19,3,1903,BANGKA SELATAN,"0,82","0,75","-0,21",mandiri
+91,15,9115,WAROPEN,"0,82","0,98",#DIV/0!,mandiri
+15,7,1507,TANJUNG JABUNG TIMUR,"0,82","0,77","-0,22",mandiri
+81,6,8106,SERAM BAGIAN BARAT,"0,82","0,79","-0,32",mandiri
+53,16,5316,NAGEKEO,"0,82","0,79","-0,16",mandiri
+81,3,8103,MALUKU TENGGARA BARAT,"0,82","0,80","-0,15",mandiri
+13,11,1311,SOLOK SELATAN,"0,81","0,78","-0,18",mandiri
+71,10,7110,BOLAANG MONGONDOW TIMUR,"0,81","0,79","-0,09",mandiri
+74,3,7403,MUNA,"0,81","0,82","-1,00",mandiri
+74,14,7414,BUTON TENGAH,"0,81","0,80","-0,16",mandiri
+12,74,1274,KOTA TANJUNG BALAI,"0,81","0,73","-0,28",mandiri
+13,72,1372,KOTA SOLOK,"0,81","0,72","-0,19",mandiri
+91,28,9128,DEIYAI,"0,81","0,84","-0,12",mandiri
+53,17,5317,SUMBA TENGAH,"0,81","0,79","-0,19",mandiri
+71,72,7172,KOTA BITUNG,"0,81","0,79","-0,12",mandiri
+13,73,1373,KOTA SAWAHLUNTO,"0,81","0,75","-0,21",mandiri
+61,11,6111,KAYONG UTARA,"0,81","0,76","0,10",mandiri
+72,7,7207,BANGGAI KEPULAUAN,"0,81","0,75","-0,13",mandiri
+74,13,7413,MUNA BARAT,"0,80","0,80","0,00",mandiri
+91,16,9116,BOVEN DIGOEL,"0,80","0,81","-0,12",mandiri
+72,12,7212,MOROWALI UTARA,"0,80","0,79","-0,15",mandiri
+71,11,7111,BOLAANG MONGONDOW SELATAN,"0,80","0,79","-0,21",mandiri
+74,15,7415,BUTON SELATAN,"0,80","0,66","-0,44",mandiri
+81,9,8109,BURU SELATAN,"0,80","0,78","-0,15",mandiri
+62,8,6208,SUKAMARA,"0,80","0,79","-0,17",mandiri
+17,1,1701,BENGKULU SELATAN,"0,80","0,78","-0,19",mandiri
+21,4,2104,LINGGA,"0,80","0,72","-0,17",mandiri
+91,27,9127,INTAN JAYA,"0,80","0,80",#DIV/0!,mandiri
+76,5,7605,MAJENE,"0,80","0,80","-0,14",mandiri
+12,72,1272,KOTA PEMATANGSIANTAR,"0,79","0,73","-0,08",mandiri
+21,3,2103,NATUNA,"0,79","0,72","-1,00",mandiri
+91,4,9104,NABIRE,"0,79","0,85",#DIV/0!,mandiri
+65,1,6501,BULUNGAN,"0,79","0,74","-0,09",mandiri
+81,1,8101,MALUKU TENGAH,"0,79","0,78","-0,03",mandiri
+65,2,6502,MALINAU,"0,79","0,79","-0,13",mandiri
+71,73,7173,KOTA TOMOHON,"0,79","0,77","-0,15",mandiri
+13,3,1303,SIJUNJUNG,"0,79","0,74","-0,13",mandiri
+73,7,7307,SINJAI,"0,79","0,69","-0,22",mandiri
+13,2,1302,SOLOK,"0,79","0,77","-0,11",mandiri
+15,72,1572,KOTA SUNGAI PENUH,"0,79","0,76","-0,13",mandiri
+76,6,7606,MAMUJU TENGAH,"0,79","0,82","-0,23",mandiri
+71,8,7108,BOLAANG MONGONDOW UTARA,"0,79","0,77","-0,26",mandiri
+17,9,1709,BENGKULU TENGAH,"0,79","0,77","-0,08",mandiri
+91,26,9126,DOGIYAI,"0,79","0,73","-0,09",mandiri
+75,2,7502,BOALEMO,"0,79","0,76","-0,13",mandiri
+53,14,5314,ROTE NDAO,"0,79","0,77","-0,17",mandiri
+61,7,6107,BENGKAYANG,"0,79","0,79","-0,11",mandiri
+14,3,1403,BENGKALIS,"0,79","0,73","-1,00",mandiri
+13,6,1306,AGAM,"0,78","0,77","-0,25",mandiri
+62,12,6212,MURUNG RAYA,"0,78","0,78","-0,18",mandiri
+91,25,9125,PUNCAK,"0,78","0,68","-1,00",mandiri
+12,77,1277,KOTA PADANG SIDIMPUAN,"0,78","0,77","-0,18",mandiri
+12,23,1223,LABUHANBATU UTARA,"0,78","0,76","-0,12",mandiri
+73,12,7312,SOPPENG,"0,78","0,77","-0,18",mandiri
+52,7,5207,SUMBAWA BARAT,"0,78","0,77","-0,12",mandiri
+72,11,7211,BANGGAI LAUT,"0,78","0,64","-0,04",mandiri
+72,3,7203,DONGGALA,"0,78","0,56","-0,38",mandiri
+13,10,1310,DHARMASRAYA,"0,78","0,73","-0,14",mandiri
+81,4,8104,BURU,"0,78","0,78","-1,00",mandiri
+15,6,1506,TANJUNG JABUNG BARAT,"0,78","0,74","-0,10",mandiri
+72,10,7210,SIGI,"0,78","0,53","-0,42",mandiri
+62,6,6206,KATINGAN,"0,78","0,73","-0,14",mandiri
+13,7,1307,LIMA PULUH KOTA,"0,78","0,74","-1,00",mandiri
+82,8,8208,PULAU TALIABU,"0,78","0,75","-0,01",mandiri
+81,2,8102,MALUKU TENGGARA,"0,78","0,78","-0,14",mandiri
+74,72,7472,KOTA BAU BAU,"0,78","0,72","-0,22",mandiri
+81,5,8105,SERAM BAGIAN TIMUR,"0,77","0,77","-0,21",mandiri
+64,2,6402,KUTAI KARTANEGARA,"0,77","0,74","-0,15",mandiri
+13,5,1305,PADANG PARIAMAN,"0,77","0,77","-0,06",mandiri
+76,1,7601,MAMUJU UTARA,"0,77","0,75","-0,08",mandiri
+91,12,9112,PEGUNUNGAN BINTANG,"0,77","0,77","-0,10",mandiri
+74,4,7404,BUTON,"0,77","0,63","-0,11",mandiri
+74,11,7411,KOLAKA TIMUR,"0,77","0,77",#DIV/0!,mandiri
+62,11,6211,PULANG PISAU,"0,77","0,75","-0,16",mandiri
+71,9,7109,KEP. SIAU TAGULANDANG BIARO,"0,77","0,75","-0,22",mandiri
+75,4,7504,PAHUWATO,"0,77","0,76","-0,15",mandiri
+14,10,1410,KEPULAUAN MERANTI,"0,77","0,74","-0,24",mandiri
+13,74,1374,KOTA PADANG PANJANG,"0,77","0,71","-0,14",mandiri
+17,8,1708,KEPAHIANG,"0,77","0,70","-0,29",mandiri
+16,13,1613,MUSI RAWAS UTARA,"0,77","0,75","-0,37",mandiri
+16,74,1674,KOTA PRABUMULIH,"0,77","0,72","0,06",mandiri
+71,4,7104,KEPULAUAN TALAUD,"0,77","0,76","-0,18",mandiri
+13,8,1308,PASAMAN,"0,77","0,73","-0,07",mandiri
+53,5,5305,ALOR,"0,77","0,77","-0,10",mandiri
+12,78,1278,KOTA GUNUNGSITOLI,"0,77","0,75","-0,10",mandiri
+62,10,6210,GUNUNG MAS,"0,77","0,77","-0,23",mandiri
+62,9,6209,LAMANDAU,"0,76","0,74","-0,18",mandiri
+17,5,1705,SELUMA,"0,76","0,73","-0,09",mandiri
+13,77,1377,KOTA PARIAMAN,"0,76","0,71","-0,23",mandiri
+71,7,7107,MINAHASA TENGGARA,"0,76","0,70","-0,16",mandiri
+12,22,1222,LABUHANBATU SELATAN,"0,76","0,73","-1,00",mandiri
+14,7,1407,ROKAN HILIR,"0,76","0,76","-1,00",mandiri
+12,25,1225,NIAS BARAT,"0,76","0,70","-0,19",mandiri
+73,1,7301,KEPULAUAN SELAYAR,"0,76","0,74","-0,17",mandiri
+82,4,8204,HALMAHERA SELATAN,"0,76","0,76","-0,13",mandiri
+73,15,7315,PINRANG,"0,76","0,74","-0,21",mandiri
+71,3,7103,KEPULAUAN SANGIHE,"0,76","0,73","-0,20",mandiri
+62,3,6203,KAPUAS,"0,76","0,58","-0,32",mandiri
+72,9,7209,TOJO UNA-UNA,"0,76","0,74","-0,19",mandiri
+53,21,5321,MALAKA,"0,76","0,72","-0,12",mandiri
+82,6,8206,HALMAHERA TIMUR,"0,76","0,64","-0,22",mandiri
+65,71,6571,KOTA TARAKAN,"0,76","0,71","-0,15",mandiri
+61,4,6104,KETAPANG,"0,76","0,76","-0,15",mandiri
+76,3,7603,MAMASA,"0,76","0,74","-0,35",mandiri
+61,1,6101,SAMBAS,"0,76","0,74","-0,14",mandiri
+71,74,7174,KOTA KOTAMOBAGU,"0,76","0,73","-0,27",mandiri
+61,6,6106,KAPUAS HULU,"0,76","0,75","-0,09",mandiri
+12,75,1275,KOTA BINJAI,"0,76","0,75","-0,16",mandiri
+63,11,6311,BALANGAN,"0,76","0,69","0,08",mandiri
+74,8,7408,KOLAKA UTARA,"0,76","0,67","-0,39",mandiri
+76,2,7602,MAMUJU,"0,75","0,74","-0,27",mandiri
+61,2,6102,MEMPAWAH,"0,75","0,74","-0,14",mandiri
+61,10,6110,MELAWI,"0,75","0,73","-1,00",mandiri
+74,6,7406,BOMBANA,"0,75","0,68","-0,11",mandiri
+19,5,1905,BANGKA BARAT,"0,75","0,63","-0,14",mandiri
+62,5,6205,BARITO UTARA,"0,75","0,72","-0,14",mandiri
+18,12,1812,TULANG BAWANG BARAT,"0,75","0,69","-0,47",mandiri
+71,5,7105,MINAHASA SELATAN,"0,75","0,74","-0,12",mandiri
+17,7,1707,LEBONG,"0,75","0,75","-0,29",mandiri
+72,4,7204,TOLITOLI,"0,75","0,74","-0,27",mandiri
+16,12,1612,PENUKAL ABAB LEMATANG ILIR,"0,75","0,82","-0,36",mandiri
+21,72,2172,KOTA TANJUNGPINANG,"0,75","0,71","-1,00",mandiri
+14,8,1408,SIAK,"0,75","0,75","0,46",mandiri
+91,1,9101,MERAUKE,"0,75","0,71","-0,14",mandiri
+81,7,8107,KEPULAUAN ARU,"0,75","0,75","-0,13",mandiri
+62,13,6213,BARITO TIMUR,"0,75","0,73","-0,14",mandiri
+75,5,7505,GORONTALO UTARA,"0,75","0,72","-0,21",mandiri
+72,5,7205,BUOL,"0,75","0,75","-0,20",mandiri
+13,12,1312,PASAMAN BARAT,"0,75","0,71","-0,14",mandiri
+53,20,5320,SABU RAIJUA,"0,74","0,64","-0,09",mandiri
+91,5,9105,KEPULAUAN YAPEN,"0,74","0,61",#DIV/0!,mandiri
+61,3,6103,SANGGAU,"0,74","0,68","-0,12",mandiri
+53,3,5303,TIMOR TENGAH UTARA,"0,74","0,70","-0,07",mandiri
+53,71,5371,KOTA KUPANG,"0,74","0,72","-0,13",mandiri
+53,1,5301,KUPANG,"0,74","0,73","-0,14",mandiri
+13,4,1304,TANAH DATAR,"0,74","0,68","-0,14",mandiri
+73,5,7305,TAKALAR,"0,74","0,74","-0,09",mandiri
+53,11,5311,SUMBA TIMUR,"0,74","0,73","-0,16",mandiri
+14,1,1401,KAMPAR,"0,74","0,73","-1,00",mandiri
+62,71,6271,KOTA PALANGKARAYA,"0,74","0,73","-0,14",mandiri
+73,10,7310,PANGKAJENE DAN KEPULAUAN,"0,74","0,74","-0,18",mandiri
+19,6,1906,BELITUNG TIMUR,"0,74","0,68","-0,12",mandiri
+72,8,7208,PARIGI MOUTONG,"0,74","0,70","-0,17",mandiri
+91,9,9109,MIMIKA,"0,74","0,71","-0,18",mandiri
+53,6,5306,FLORES TIMUR,"0,74","0,74","-0,08",mandiri
+13,76,1376,KOTA PAYAKUMBUH,"0,74","0,69","-0,19",mandiri
+73,11,7311,BARRU,"0,74","0,71",#DIV/0!,mandiri
+14,4,1404,INDRAGIRI HILIR,"0,74","0,66","-1,00",mandiri
+35,75,3575,KOTA PASURUAN,"0,74","0,57","-0,36",mandiri
+15,5,1505,MUARO JAMBI,"0,74","0,71","-0,29",mandiri
+15,9,1509,TEBO,"0,74","0,72","-0,11",mandiri
+53,8,5308,ENDE,"0,74","0,74","-0,16",mandiri
+15,2,1502,MERANGIN,"0,74","0,64","-0,12",mandiri
+61,9,6109,SEKADAU,"0,73","0,73","-0,09",mandiri
+73,4,7304,JENEPONTO,"0,73","0,73","-0,08",mandiri
+53,12,5312,SUMBA BARAT,"0,73","0,72","-0,16",mandiri
+62,4,6204,BARITO SELATAN,"0,73","0,68","-0,12",mandiri
+72,71,7271,KOTA PALU,"0,73","0,42","-0,41",mandiri
+53,7,5307,SIKKA,"0,73","0,69","-0,20",mandiri
+73,73,7373,KOTA PALOPO,"0,73","0,66","-0,08",mandiri
+73,13,7313,WAJO,"0,73","0,73","-0,17",mandiri
+17,3,1703,BENGKULU UTARA,"0,73","0,72","-1,00",mandiri
+16,5,1605,MUSI RAWAS,"0,73","0,71","-0,04",mandiri
+53,4,5304,BELU,"0,73","0,69","-0,12",mandiri
+71,6,7106,MINAHASA UTARA,"0,73","0,72","-0,12",mandiri
+64,7,6407,KUTAI BARAT,"0,73","0,71","-0,13",mandiri
+61,8,6108,LANDAK,"0,73","0,72","-0,01",mandiri
+16,11,1611,EMPAT LAWANG,"0,73","0,73","-0,11",mandiri
+52,5,5205,DOMPU,"0,73","0,70","-0,12",mandiri
+82,2,8202,HALMAHERA TENGAH,"0,73","0,61","-0,09",mandiri
+91,11,9111,KEEROM,"0,73","0,77","-0,32",mandiri
+12,16,1216,HUMBANG HASUNDUTAN,"0,73","0,68","-0,14",mandiri
+12,76,1276,KOTA TEBING TINGGI,"0,73","0,68","0,02",mandiri
+91,24,9124,NDUGA,"0,73","0,85","-0,30",mandiri
+82,71,8271,KOTA TERNATE,"0,73","0,70","-0,11",mandiri
+64,9,6409,PENAJAM PASER UTARA,"0,73","0,77","-0,14",mandiri
+12,6,1206,KARO,"0,73","0,73","-0,06",mandiri
+12,11,1211,DAIRI,"0,72","0,70","-0,11",mandiri
+18,11,1811,MESUJI,"0,72","0,71","-0,14",mandiri
+18,4,1804,LAMPUNG BARAT,"0,72","0,71","-0,09",mandiri
+72,2,7202,POSO,"0,72","0,72","-0,16",mandiri
+12,1,1201,TAPANULI TENGAH,"0,72","0,64","-0,03",mandiri
+61,72,6172,KOTA SINGKAWANG,"0,72","0,70","-0,14",mandiri
+32,7,3207,CIAMIS,"0,72","0,71","0,05",mandiri
+74,9,7409,KONAWE UTARA,"0,72","0,70","-0,11",mandiri
+17,2,1702,REJANG LEBONG,"0,72","0,68","-0,05",mandiri
+71,1,7101,BOLAANG MONGONDOW,"0,72","0,71","-0,21",mandiri
+52,6,5206,BIMA,"0,72","0,71","-0,28",mandiri
+12,17,1217,SAMOSIR,"0,72","0,71","-0,15",mandiri
+16,3,1603,MUARA ENIM,"0,72","0,72","-0,02",mandiri
+63,4,6304,BARITO KUALA,"0,72","0,71","-0,17",mandiri
+17,71,1771,KOTA BENGKULU,"0,72","0,61","-1,00",mandiri
+92,4,9204,SORONG SELATAN,"0,72","0,73","-1,00",mandiri
+15,3,1503,SAROLANGUN,"0,72","0,67","-0,11",mandiri
+91,8,9108,PANIAI,"0,72","0,66","-0,07",mandiri
+12,8,1208,SIMALUNGUN,"0,72","0,74","-0,01",mandiri
+63,1,6301,TANAH LAUT,"0,72","0,56","-0,18",mandiri
+81,8,8108,MALUKU BARAT DAYA,"0,72","0,69","-0,10",mandiri
+53,13,5313,LEMBATA,"0,72","0,70","-0,09",mandiri
+76,4,7604,POLEWALI MANDAR,"0,72","0,72","-0,19",mandiri
+91,22,9122,YALIMO,"0,71","0,69",#DIV/0!,mandiri
+52,4,5204,SUMBAWA,"0,71","0,69","-0,17",mandiri
+52,2,5202,LOMBOK TENGAH,"0,71","0,71","-0,26",mandiri
+17,4,1704,KAUR,"0,71","0,70","-0,11",mandiri
+12,5,1205,LANGKAT,"0,71","0,72","-1,00",mandiri
+15,4,1504,BATANGHARI,"0,71","0,71","-0,37",mandiri
+91,17,9117,MAPPI,"0,71","0,67","-1,00",mandiri
+91,7,9107,PUNCAK JAYA,"0,71","0,70","-1,00",mandiri
+14,5,1405,PELALAWAN,"0,71","0,66","-1,00",mandiri
+14,9,1409,KUANTAN SINGINGI,"0,71","0,71","-1,00",mandiri
+35,20,3520,MAGETAN,"0,71","0,70","-0,20",mandiri
+18,13,1813,PESISIR BARAT,"0,71","0,69","-0,23",mandiri
+73,14,7314,SIDENRENG RAPPANG,"0,71","0,69","-0,12",mandiri
+12,73,1273,KOTA SIBOLGA,"0,71","0,71","-0,11",mandiri
+53,9,5309,NGADA,"0,71","0,70","-0,09",mandiri
+73,18,7318,TANA TORAJA,"0,71","0,71","-0,08",mandiri
+53,10,5310,MANGGARAI,"0,71","0,71","-0,13",mandiri
+14,6,1406,ROKAN HULU,"0,71","0,69","0,00",mandiri
+65,3,6503,NUNUKAN,"0,71","0,70","-0,39",mandiri
+16,10,1610,OGAN ILIR,"0,71","0,70","-1,00",mandiri
+16,9,1609,OGAN KOMERING ULU SELATAN,"0,71","0,68","-0,10",mandiri
+92,7,9207,TELUK WONDAMA,"0,70","0,69","-0,62",mandiri
+12,18,1218,SERDANG BEDAGAI,"0,70","0,70","-1,00",mandiri
+73,16,7316,ENREKANG,"0,70","0,70","-0,21",mandiri
+19,2,1902,BELITUNG,"0,70","0,61","-1,00",mandiri
+91,3,9103,JAYAPURA,"0,70","0,68","-0,16",mandiri
+18,5,1805,TULANG BAWANG,"0,70","0,69","-0,12",mandiri
+35,28,3528,PAMEKASAN,"0,70","0,55","-0,32",mandiri
+17,6,1706,MUKOMUKO,"0,70","0,66","-0,10",mandiri
+63,7,6307,HULU SUNGAI TENGAH,"0,70","0,63","-0,10",mandiri
+35,12,3512,SITUBONDO,"0,70","0,67","0,03",mandiri
+18,8,1808,WAY KANAN,"0,70","0,72","-0,09",mandiri
+19,4,1904,BANGKA TENGAH,"0,70","0,68","-1,00",mandiri
+71,2,7102,MINAHASA,"0,70","0,66","-0,14",mandiri
+74,5,7405,KONAWE SELATAN,"0,70","0,71","-0,28",mandiri
+35,1,3501,PACITAN,"0,70","0,70","-1,00",mandiri
+18,7,1807,LAMPUNG TIMUR,"0,70","0,66","-0,14",mandiri
+53,2,5302,TIMOR TENGAH SELATAN,"0,70","0,69","-0,36",mandiri
+32,78,3278,KOTA TASIKMALAYA,"0,70","0,69","0,03",mandiri
+73,17,7317,LUWU,"0,70","0,69","-0,18",mandiri
+63,5,6305,TAPIN,"0,70","0,55","-0,16",mandiri
+73,2,7302,BULUKUMBA,"0,70","0,70","-0,17",mandiri
+12,9,1209,ASAHAN,"0,70","0,70","-0,08",mandiri
+35,11,3511,BONDOWOSO,"0,70","0,65","-0,10",mandiri
+35,21,3521,NGAWI,"0,70","0,65","-0,07",mandiri
+82,7,8207,PULAU MOROTAI,"0,70","0,69","-0,14",mandiri
+16,7,1607,BANYUASIN,"0,70","0,64","0,58",mandiri
+92,5,9205,RAJA AMPAT,"0,70","0,70","-0,11",mandiri
+91,71,9171,KOTA JAYAPURA,"0,70","0,69","-0,12",mandiri
+91,18,9118,ASMAT,"0,70","0,70","-0,43",mandiri
+13,1,1301,PESISIR SELATAN,"0,70","0,67","-0,10",mandiri
+73,3,7303,BANTAENG,"0,70","0,71","-0,16",mandiri
+16,4,1604,LAHAT,"0,69","0,66","-0,24",mandiri
+53,19,5319,MANGGARAI TIMUR,"0,69","0,69","-0,17",mandiri
+19,1,1901,BANGKA,"0,69","0,64","0,15",mandiri
+72,1,7201,BANGGAI,"0,69","0,69","-0,09",mandiri
+73,6,7306,GOWA,"0,69","0,66","-0,18",mandiri
+73,72,7372,KOTA PARE PARE,"0,69","0,68","-0,12",mandiri
+35,5,3505,BLITAR,"0,69","0,64","-0,10",mandiri
+18,3,1803,LAMPUNG UTARA,"0,69","0,68","-0,08",mandiri
+92,10,9210,MAYBRAT,"0,69","0,69","-1,00",mandiri
+18,2,1802,LAMPUNG TENGAH,"0,69","0,67","-0,11",mandiri
+32,6,3206,TASIKMALAYA,"0,69","0,69","0,13",mandiri
+19,71,1971,KOTA PANGKALPINANG,"0,69","0,60","-0,06",mandiri
+18,9,1809,PESAWARAN,"0,69","0,67","-1,00",mandiri
+81,71,8171,KOTA AMBON,"0,69","0,68","-0,21",mandiri
+82,1,8201,HALMAHERA BARAT,"0,69","0,71","-0,15",mandiri
+35,71,3571,KOTA KEDIRI,"0,69","0,60","-0,10",mandiri
+13,75,1375,KOTA BUKITTINGGI,"0,69","0,55","-0,19",mandiri
+33,12,3312,WONOGIRI,"0,69","0,65","-0,08",mandiri
+92,8,9208,KAIMANA,"0,69","0,65","-0,29",mandiri
+36,1,3601,PANDEGLANG,"0,68","0,65","-0,07",mandiri
+16,1,1601,OGAN KOMERING ULU,"0,68","0,66","-0,62",mandiri
+62,7,6207,SERUYAN,"0,68","0,63","-0,20",mandiri
+12,13,1213,MANDAILING NATAL,"0,68","0,67","-1,00",mandiri
+61,12,6112,KUBU RAYA,"0,68","0,64","-0,20",mandiri
+33,14,3314,SRAGEN,"0,68","0,65","-0,06",mandiri
+16,8,1608,OGAN KOMERING ULU TIMUR,"0,68","0,70","-0,23",mandiri
+12,21,1221,PADANG LAWAS,"0,68","0,66","-1,00",mandiri
+63,2,6302,KOTABARU,"0,68","0,65","-1,00",mandiri
+32,8,3208,KUNINGAN,"0,68","0,68","-0,11",mandiri
+92,12,9212,PEGUNUNGAN ARFAK,"0,68","0,68","-1,00",mandiri
+35,29,3529,SUMENEP,"0,68","0,60","-0,19",mandiri
+63,10,6310,TANAH BUMBU,"0,68","0,59","-0,01",mandiri
+34,3,3403,GUNUNGKIDUL,"0,68","0,63","-0,10",mandiri
+91,6,9106,BIAK NUMFOR,"0,68","0,67","-1,00",mandiri
+18,72,1872,KOTA METRO,"0,68","0,63","-0,19",mandiri
+91,14,9114,TOLIKARA,"0,68","0,66","-1,00",mandiri
+12,12,1212,TOBA SAMOSIR,"0,68","0,65","-0,12",mandiri
+92,9,9209,TAMBRAUW,"0,68","0,77","-0,17",mandiri
+63,3,6303,BANJAR,"0,68","0,60","-0,09",mandiri
+53,18,5318,SUMBA BARAT DAYA,"0,67","0,64","-0,08",mandiri
+15,1,1501,KERINCI,"0,67","0,65","-0,34",mandiri
+35,19,3519,MADIUN,"0,67","0,65","-0,14",mandiri
+18,10,1810,PRINGSEWU,"0,67","0,66","-0,12",mandiri
+92,11,9211,MANOKWARI SELATAN,"0,67","0,71","-1,00",mandiri
+14,72,1472,KOTA DUMAI,"0,67","0,66","-0,20",mandiri
+36,73,3673,KOTA SERANG,"0,67","0,64","-0,04",mandiri
+35,27,3527,SAMPANG,"0,67","0,64","-0,28",mandiri
+61,5,6105,SINTANG,"0,67","0,60","-0,09",mandiri
+14,2,1402,INDRAGIRI HULU,"0,67","0,61","-0,12",mandiri
+11,73,1173,KOTA LHOKSEUMAWE,"0,67","0,66","-0,22",mandiri
+12,24,1224,NIAS UTARA,"0,67","0,65","-0,10",mandiri
+73,8,7308,BONE,"0,67","0,66","-0,15",mandiri
+35,3,3503,TRENGGALEK,"0,67","0,64","-0,23",mandiri
+75,3,7503,BONE BOLANGO,"0,67","0,66","-0,16",mandiri
+75,71,7571,KOTA GORONTALO,"0,67","0,65","-0,11",mandiri
+75,1,7501,GORONTALO,"0,67","0,64","-0,11",mandiri
+12,14,1214,NIAS SELATAN,"0,67","0,62","-0,08",mandiri
+12,10,1210,LABUHANBATU,"0,67","0,63","-0,06",mandiri
+52,3,5203,LOMBOK TIMUR,"0,67","0,65","-0,16",mandiri
+62,1,6201,KOTAWARINGIN BARAT,"0,66","0,63","-0,01",mandiri
+73,22,7322,LUWU UTARA,"0,66","0,66","-0,19",mandiri
+64,74,6474,KOTA BONTANG,"0,66","0,60","-0,24",mandiri
+52,1,5201,LOMBOK BARAT,"0,66","0,61","-0,14",mandiri
+11,72,1172,KOTA SABANG,"0,66","0,62","-0,21",mandiri
+73,26,7326,TORAJA UTARA,"0,66","0,66","-0,30",mandiri
+64,3,6403,BERAU,"0,66","0,66","-0,08",mandiri
+12,3,1203,TAPANULI SELATAN,"0,66","0,65","-0,16",mandiri
+16,2,1602,OGAN KOMERING ILIR,"0,66","0,60","-0,23",mandiri
+12,19,1219,BATU BARA,"0,66","0,61","-0,10",mandiri
+35,4,3504,TULUNGAGUNG,"0,66","0,61","-0,18",mandiri
+92,1,9201,SORONG,"0,66","0,59","-1,00",mandiri
+35,72,3572,KOTA BLITAR,"0,66","0,59","-0,17",mandiri
+33,16,3316,BLORA,"0,66","0,64","-0,06",mandiri
+12,2,1202,TAPANULI UTARA,"0,66","0,65","-0,16",mandiri
+32,79,3279,KOTA BANJAR,"0,65","0,64","-0,23",mandiri
+12,20,1220,PADANG LAWAS UTARA,"0,65","0,64","-0,13",mandiri
+63,6,6306,HULU SUNGAI SELATAN,"0,65","0,59","-0,06",mandiri
+35,2,3502,PONOROGO,"0,65","0,63","-0,22",mandiri
+62,2,6202,KOTAWARINGIN TIMUR,"0,65","0,62","-0,10",mandiri
+32,13,3213,SUBANG,"0,65","0,57","0,10",mandiri
+35,79,3579,KOTA BATU,"0,65","0,65","-0,17",mandiri
+63,9,6309,TABALONG,"0,65","0,61","-0,08",mandiri
+33,7,3307,WONOSOBO,"0,65","0,61","-0,10",mandiri
+32,5,3205,GARUT,"0,65","0,64","-0,10",mandiri
+63,72,6372,KOTA BANJARBARU,"0,65","0,59","-0,18",mandiri
+91,2,9102,JAYAWIJAYA,"0,65","0,63","-0,27",mandiri
+35,74,3574,KOTA PROBOLINGGO,"0,65","0,59","-0,09",mandiri
+15,71,1571,KOTA JAMBI,"0,65","0,51","-0,06",mandiri
+64,8,6408,KUTAI TIMUR,"0,65","0,65","-0,30",mandiri
+32,18,3218,PANGANDARAN,"0,65","0,61","-0,12",mandiri
+33,75,3375,KOTA PEKALONGAN,"0,64","0,60","-0,14",mandiri
+73,9,7309,MAROS,"0,64","0,63","-0,11",mandiri
+33,4,3304,BANJARNEGARA,"0,64","0,62","-0,09",mandiri
+35,26,3526,BANGKALAN,"0,64","0,63","-1,00",mandiri
+92,3,9203,FAKFAK,"0,64","0,62","-1,00",mandiri
+35,22,3522,BOJONEGORO,"0,64","0,41","-0,15",mandiri
+91,23,9123,LANNY JAYA,"0,64","0,61","-0,22",mandiri
+21,1,2101,BINTAN,"0,64","0,62","-1,00",mandiri
+63,8,6308,HULU SUNGAI UTARA,"0,64","0,59","0,01",mandiri
+32,11,3211,SUMEDANG,"0,64","0,64","-0,03",mandiri
+18,1,1801,LAMPUNG SELATAN,"0,64","0,58","-0,15",mandiri
+11,13,1113,GAYO LUES,"0,64","0,60","-0,28",mandiri
+35,77,3577,KOTA MADIUN,"0,64","0,53","-1,00",mandiri
+51,7,5107,KARANGASEM,"0,63","0,60","-1,00",mandiri
+51,6,5106,BANGLI,"0,63","0,62","-1,00",mandiri
+35,76,3576,KOTA MOJOKERTO,"0,63","0,55","-0,08",mandiri
+91,13,9113,YAHUKIMO,"0,63","0,60","-1,00",mandiri
+33,11,3311,SUKOHARJO,"0,63","0,54","-0,04",mandiri
+32,3,3203,CIANJUR,"0,63","0,63","-0,11",mandiri
+33,27,3327,PEMALANG,"0,63","0,58","-1,00",mandiri
+33,13,3313,KARANGANYAR,"0,63","0,61","-0,08",mandiri
+35,9,3509,JEMBER,"0,63","0,55","-0,04",mandiri
+35,8,3508,LUMAJANG,"0,63","0,59","-0,15",mandiri
+33,10,3310,KLATEN,"0,63","0,59","-0,09",mandiri
+33,9,3309,BOYOLALI,"0,63","0,61","-0,25",mandiri
+74,1,7401,KOLAKA,"0,63","0,63",#DIV/0!,mandiri
+33,3,3303,PURBALINGGA,"0,62","0,61","-0,11",mandiri
+18,6,1806,TANGGAMUS,"0,62","0,62","-0,20",mandiri
+11,74,1174,KOTA LANGSA,"0,62","0,62","-1,00",mandiri
+12,4,1204,NIAS,"0,62","0,60","0,07",mandiri
+11,12,1112,ACEH BARAT DAYA,"0,62","0,55","-0,30",mandiri
+33,25,3325,BATANG,"0,62","0,60","-0,19",mandiri
+35,6,3506,KEDIRI,"0,62","0,54","-0,14",mandiri
+63,71,6371,KOTA BANJARMASIN,"0,62","0,52","-0,11",mandiri
+35,13,3513,PROBOLINGGO,"0,62","0,61","-0,11",mandiri
+33,23,3323,TEMANGGUNG,"0,62","0,60","-0,07",mandiri
+82,3,8203,HALMAHERA UTARA,"0,62","0,60","-0,01",mandiri
+35,18,3518,NGANJUK,"0,62","0,57","-0,07",mandiri
+71,71,7171,KOTA MANADO,"0,61","0,54","-0,26",mandiri
+35,17,3517,JOMBANG,"0,61","0,58","-1,00",mandiri
+33,15,3315,GROBOGAN,"0,61","0,61","-0,11",mandiri
+33,71,3371,KOTA MAGELANG,"0,61","0,57","-0,17",mandiri
+52,8,5208,LOMBOK UTARA,"0,61","0,59","-0,24",mandiri
+33,76,3376,KOTA TEGAL,"0,61","0,54","-0,17",mandiri
+11,75,1175,KOTA SUBULUSSALAM,"0,61","0,61","-0,25",mandiri
+36,2,3602,LEBAK,"0,61","0,60","-0,07",mandiri
+33,5,3305,KEBUMEN,"0,61","0,58","-0,11",mandiri
+32,12,3212,INDRAMAYU,"0,61","0,61","-0,18",mandiri
+33,73,3373,KOTA SALATIGA,"0,61","0,58","-0,12",mandiri
+35,7,3507,MALANG,"0,61","0,57","-1,00",mandiri
+33,18,3318,PATI,"0,60","0,58","-0,06",mandiri
+11,17,1117,BENER MERIAH,"0,60","0,60","-0,31",mandiri
+53,15,5315,MANGGARAI BARAT,"0,60","0,59","-0,16",mandiri
+33,20,3320,JEPARA,"0,60","0,57","-0,19",mandiri
+34,2,3402,BANTUL,"0,60","0,56","-0,29",mandiri
+33,29,3329,BREBES,"0,60","0,58","-0,10",mandiri
+92,71,9271,KOTA SORONG,"0,60","0,69","-1,00",mandiri
+34,1,3401,KULON PROGO,"0,60","0,60","-0,23",mandiri
+32,72,3272,KOTA SUKABUMI,"0,60","0,58","-0,09",mandiri
+33,6,3306,PURWOREJO,"0,60","0,55","-0,17",mandiri
+21,2,2102,KARIMUN,"0,60","0,55","-1,00",mandiri
+74,71,7471,KOTA KENDARI,"0,60","0,59","-0,23",mandiri
+33,1,3301,CILACAP,"0,59","0,56","-0,16",mandiri
+72,6,7206,MOROWALI,"0,59","0,59","-0,13",mandiri
+33,17,3317,REMBANG,"0,59","0,57","-0,19",mandiri
+11,16,1116,ACEH TAMIANG,"0,59","0,59","-0,31",mandiri
+33,24,3324,KENDAL,"0,59","0,56","-0,10",mandiri
+33,22,3322,SEMARANG,"0,59","0,57","-0,14",mandiri
+11,15,1115,NAGAN RAYA,"0,59","0,58","-0,33",mandiri
+92,6,9206,TELUK BINTUNI,"0,59","0,52","-0,24",mandiri
+32,2,3202,SUKABUMI,"0,59","0,57","-0,07",mandiri
+33,19,3319,KUDUS,"0,59","0,56","0,02",mandiri
+64,1,6401,PASER,"0,59","0,55","-0,27",mandiri
+11,14,1114,ACEH JAYA,"0,59","0,58","-0,33",mandiri
+51,1,5101,JEMBRANA,"0,58","0,57","-0,23",mandiri
+52,71,5271,KOTA MATARAM,"0,58","0,57","-0,34",mandiri
+32,17,3217,BANDUNG BARAT,"0,58","0,50","0,07",mandiri
+33,26,3326,PEKALONGAN,"0,58","0,55","-0,12",mandiri
+33,8,3308,MAGELANG,"0,58","0,56","-1,00",mandiri
+35,23,3523,TUBAN,"0,58","0,56","-0,16",mandiri
+74,2,7402,KONAWE,"0,58","0,61",#DIV/0!,mandiri
+32,9,3209,CIREBON,"0,58","0,57","0,11",mandiri
+51,5,5105,KLUNGKUNG,"0,58","0,53","-0,28",mandiri
+33,28,3328,TEGAL,"0,57","0,57","-0,14",mandiri
+51,8,5108,BULELENG,"0,57","0,57",#DIV/0!,mandiri
+13,71,1371,KOTA PADANG,"0,57","0,56","-0,19",mandiri
+33,2,3302,BANYUMAS,"0,57","0,55","-0,12",mandiri
+92,2,9202,MANOKWARI,"0,57","0,55","-1,00",mandiri
+35,16,3516,MOJOKERTO,"0,57","0,55","-0,10",mandiri
+35,14,3514,PASURUAN,"0,57","0,53","-0,12",mandiri
+33,21,3321,DEMAK,"0,57","0,55","-0,09",mandiri
+33,72,3372,KOTA SURAKARTA,"0,57","0,54","-0,08",mandiri
+11,18,1118,PIDIE JAYA,"0,57","0,57","-1,00",mandiri
+73,24,7324,LUWU TIMUR,"0,57","0,55","-0,22",mandiri
+32,4,3204,BANDUNG,"0,56","0,50","-0,05",mandiri
+32,77,3277,KOTA CIMAHI,"0,56","0,53","-0,11",mandiri
+51,2,5102,TABANAN,"0,55","0,54","-0,24",mandiri
+35,24,3524,LAMONGAN,"0,55","0,55","-0,06",mandiri
+32,14,3214,PURWAKARTA,"0,55","0,54","-0,04",mandiri
+36,4,3604,SERANG,"0,55","0,52","-1,00",mandiri
+14,71,1471,KOTA PEKANBARU,"0,54","0,54","-1,00",mandiri
+35,73,3573,KOTA MALANG,"0,53","0,45","-0,11",mandiri
+61,71,6171,KOTA PONTIANAK,"0,53","0,52","-0,18",mandiri
+12,7,1207,DELI SERDANG,"0,52","0,52","0,00",mandiri
+15,8,1508,BUNGO,"0,51","0,51","-0,08",mandiri
+32,74,3274,KOTA CIREBON,"0,50","0,49","-0,13",mandiri
+34,4,3404,SLEMAN,"0,50","0,48","-0,19",mandiri
+64,71,6471,KOTA BALIKPAPAN,"0,50","0,47","-0,25",tergantung
+32,10,3210,MAJALENGKA,"0,49","0,49","-0,07",tergantung
+64,72,6472,KOTA SAMARINDA,"0,49","0,47","-0,20",tergantung
+18,71,1871,KOTA BANDAR LAMPUNG,"0,48","0,50","-0,09",tergantung
+34,71,3471,KOTA YOGYAKARTA,"0,48","0,45","-0,16",tergantung
+36,72,3672,KOTA CILEGON,"0,48","0,44","-0,21",tergantung
+32,15,3215,KARAWANG,"0,47","0,47","-0,08",tergantung
+16,71,1671,KOTA PALEMBANG,"0,45","0,45","0,13",tergantung
+73,71,7371,KOTA MAKASSAR,"0,45","0,44","-0,16",tergantung
+35,25,3525,GRESIK,"0,44","0,42","-1,00",tergantung
+32,71,3271,KOTA BOGOR,"0,43","0,40","-0,03",tergantung
+51,71,5171,KOTA DENPASAR,"0,41","0,37","-0,22",tergantung
+35,15,3515,SIDOARJO,"0,41","0,34","-0,10",tergantung
+12,71,1271,KOTA MEDAN,"0,38","0,38","-0,20",tergantung
+21,71,2171,KOTA BATAM,"0,38","0,37","-0,30",tergantung
+51,4,5104,GIANYAR,"0,37","0,31","-0,26",tergantung
+32,73,3273,KOTA BANDUNG,"0,36","0,33","-0,08",tergantung
+33,74,3374,KOTA SEMARANG,"0,36","0,35","-0,24",tergantung
+32,76,3276,KOTA DEPOK,"0,35","0,29","-0,07",tergantung
+32,1,3201,BOGOR,"0,34","0,30","0,00",tergantung
+32,16,3216,BEKASI,"0,33","0,30","-0,06",tergantung
+36,3,3603,TANGERANG,"0,31","0,29","-0,17",tergantung
+36,71,3671,KOTA TANGERANG,"0,30","0,26","-0,28",tergantung
+32,75,3275,KOTA BEKASI,"0,29","0,29","-0,14",tergantung
+36,74,3674,KOTA TANGERANG SELATAN,"0,25","0,23","-0,21",tergantung
+35,78,3578,KOTA SURABAYA,"0,25","0,22","-0,14",tergantung
+35,10,3510,BANYUWANGI,"0,14","0,14",#DIV/0!,tergantung
+51,3,5103,BADUNG,"0,10","0,10","-0,34",tergantung
