@@ -1,0 +1,497 @@
+kode_prov,kode_kab,kode,nama_pemda,tkdd_pendapatan,tkdd_belanja,perubahan_apbd,grouping
+16,72,1672,KOTA PAGAR ALAM,"86,88%","86,82%","-23,74%",mandiri
+65,4,6504,TANA TIDUNG,"86,21%","80,58%","-2,66%",mandiri
+81,72,8172,KOTA TUAL,"85,01%","85,43%","-100,00%",mandiri
+64,11,6411,MAHAKAM ULU,"84,89%","79,24%","-45,53%",mandiri
+91,10,9110,SARMI,"84,63%","85,39%","-100,00%",mandiri
+82,72,8272,KOTA TIDORE KEPULAUAN,"84,03%","82,73%","-9,64%",mandiri
+74,10,7410,BUTON UTARA,"83,69%","81,67%","-12,44%",mandiri
+82,5,8205,KEPULAUAN SULA,"83,67%","79,79%","-12,32%",mandiri
+16,6,1606,MUSI BANYUASIN,"83,37%","79,70%","-39,98%",mandiri
+12,15,1215,PAKPAK BHARAT,"83,18%","80,52%","-11,49%",mandiri
+91,19,9119,SUPIORI,"82,92%","78,75%","-100,00%",mandiri
+91,20,9120,MAMBERAMO RAYA,"82,88%","76,64%","-100,00%",mandiri
+16,73,1673,KOTA LUBUKLINGGAU,"82,84%","86,32%","-24,65%",mandiri
+74,7,7407,WAKATOBI,"82,67%","80,12%","-11,24%",mandiri
+52,72,5272,KOTA BIMA,"82,46%","73,68%","-20,27%",mandiri
+91,21,9121,MAMBERAMO TENGAH,"82,29%","77,93%",#DIV/0!,mandiri
+74,12,7412,KONAWE KEPULAUAN,"82,23%","80,72%",#DIV/0!,mandiri
+13,9,1309,KEPULAUAN MENTAWAI,"82,12%","78,55%","-19,82%",mandiri
+21,5,2105,KEPULAUAN ANAMBAS,"82,05%","70,71%","-100,00%",mandiri
+19,3,1903,BANGKA SELATAN,"82,00%","75,48%","-21,42%",mandiri
+91,15,9115,WAROPEN,"81,95%","97,57%",#DIV/0!,mandiri
+15,7,1507,TANJUNG JABUNG TIMUR,"81,83%","77,36%","-22,06%",mandiri
+81,6,8106,SERAM BAGIAN BARAT,"81,79%","78,92%","-31,68%",mandiri
+53,16,5316,NAGEKEO,"81,78%","79,06%","-16,47%",mandiri
+81,3,8103,MALUKU TENGGARA BARAT,"81,61%","80,06%","-14,91%",mandiri
+13,11,1311,SOLOK SELATAN,"81,26%","78,16%","-17,82%",mandiri
+71,10,7110,BOLAANG MONGONDOW TIMUR,"81,24%","78,87%","-9,21%",mandiri
+74,3,7403,MUNA,"81,12%","81,90%","-100,00%",mandiri
+74,14,7414,BUTON TENGAH,"80,91%","79,58%","-16,50%",mandiri
+12,74,1274,KOTA TANJUNG BALAI,"80,83%","73,29%","-28,41%",mandiri
+13,72,1372,KOTA SOLOK,"80,81%","71,66%","-18,72%",mandiri
+91,28,9128,DEIYAI,"80,68%","83,74%","-11,95%",mandiri
+53,17,5317,SUMBA TENGAH,"80,64%","78,83%","-18,56%",mandiri
+71,72,7172,KOTA BITUNG,"80,64%","79,45%","-12,29%",mandiri
+13,73,1373,KOTA SAWAHLUNTO,"80,54%","74,53%","-20,89%",mandiri
+61,11,6111,KAYONG UTARA,"80,53%","75,96%","10,34%",mandiri
+72,7,7207,BANGGAI KEPULAUAN,"80,51%","74,84%","-13,13%",mandiri
+74,13,7413,MUNA BARAT,"80,48%","80,27%","-0,16%",mandiri
+91,16,9116,BOVEN DIGOEL,"80,44%","81,23%","-11,88%",mandiri
+72,12,7212,MOROWALI UTARA,"80,37%","78,59%","-14,59%",mandiri
+71,11,7111,BOLAANG MONGONDOW SELATAN,"80,30%","79,08%","-20,60%",mandiri
+74,15,7415,BUTON SELATAN,"80,25%","65,85%","-43,89%",mandiri
+81,9,8109,BURU SELATAN,"80,25%","77,55%","-15,48%",mandiri
+62,8,6208,SUKAMARA,"80,11%","78,66%","-16,51%",mandiri
+17,1,1701,BENGKULU SELATAN,"80,10%","77,84%","-19,41%",mandiri
+21,4,2104,LINGGA,"80,07%","71,64%","-17,20%",mandiri
+91,27,9127,INTAN JAYA,"79,78%","79,93%",#DIV/0!,mandiri
+76,5,7605,MAJENE,"79,78%","79,70%","-13,52%",mandiri
+12,72,1272,KOTA PEMATANGSIANTAR,"79,48%","72,60%","-7,59%",mandiri
+21,3,2103,NATUNA,"79,43%","71,60%","-100,00%",mandiri
+91,4,9104,NABIRE,"79,30%","84,72%",#DIV/0!,mandiri
+65,1,6501,BULUNGAN,"79,19%","74,02%","-8,81%",mandiri
+81,1,8101,MALUKU TENGAH,"79,18%","78,24%","-3,07%",mandiri
+65,2,6502,MALINAU,"79,16%","79,31%","-13,44%",mandiri
+71,73,7173,KOTA TOMOHON,"79,14%","76,74%","-15,02%",mandiri
+13,3,1303,SIJUNJUNG,"79,10%","73,53%","-12,98%",mandiri
+73,7,7307,SINJAI,"78,97%","68,85%","-21,94%",mandiri
+13,2,1302,SOLOK,"78,94%","77,07%","-11,24%",mandiri
+15,72,1572,KOTA SUNGAI PENUH,"78,87%","75,80%","-12,85%",mandiri
+76,6,7606,MAMUJU TENGAH,"78,86%","82,35%","-23,14%",mandiri
+71,8,7108,BOLAANG MONGONDOW UTARA,"78,81%","77,03%","-26,22%",mandiri
+17,9,1709,BENGKULU TENGAH,"78,75%","77,33%","-7,82%",mandiri
+91,26,9126,DOGIYAI,"78,74%","73,11%","-9,44%",mandiri
+75,2,7502,BOALEMO,"78,74%","76,37%","-13,19%",mandiri
+53,14,5314,ROTE NDAO,"78,72%","77,18%","-16,55%",mandiri
+61,7,6107,BENGKAYANG,"78,66%","78,51%","-11,16%",mandiri
+14,3,1403,BENGKALIS,"78,65%","72,55%","-100,00%",mandiri
+13,6,1306,AGAM,"78,39%","77,00%","-25,42%",mandiri
+62,12,6212,MURUNG RAYA,"78,35%","78,35%","-18,26%",mandiri
+91,25,9125,PUNCAK,"78,30%","67,58%","-100,00%",mandiri
+12,77,1277,KOTA PADANG SIDIMPUAN,"78,17%","77,35%","-18,37%",mandiri
+12,23,1223,LABUHANBATU UTARA,"78,07%","75,98%","-12,31%",mandiri
+73,12,7312,SOPPENG,"78,01%","76,82%","-17,56%",mandiri
+52,7,5207,SUMBAWA BARAT,"78,00%","76,72%","-11,62%",mandiri
+72,11,7211,BANGGAI LAUT,"77,98%","64,03%","-4,25%",mandiri
+72,3,7203,DONGGALA,"77,95%","56,19%","-37,93%",mandiri
+13,10,1310,DHARMASRAYA,"77,89%","72,82%","-14,02%",mandiri
+81,4,8104,BURU,"77,76%","78,29%","-100,00%",mandiri
+15,6,1506,TANJUNG JABUNG BARAT,"77,69%","73,98%","-9,69%",mandiri
+72,10,7210,SIGI,"77,68%","52,65%","-42,03%",mandiri
+62,6,6206,KATINGAN,"77,58%","73,46%","-14,28%",mandiri
+13,7,1307,LIMA PULUH KOTA,"77,57%","73,54%","-100,00%",mandiri
+82,8,8208,PULAU TALIABU,"77,55%","74,64%","-0,86%",mandiri
+81,2,8102,MALUKU TENGGARA,"77,52%","77,78%","-13,96%",mandiri
+74,72,7472,KOTA BAU BAU,"77,51%","72,27%","-21,58%",mandiri
+81,5,8105,SERAM BAGIAN TIMUR,"77,43%","77,19%","-21,08%",mandiri
+64,2,6402,KUTAI KARTANEGARA,"77,41%","73,85%","-14,93%",mandiri
+13,5,1305,PADANG PARIAMAN,"77,34%","76,61%","-6,46%",mandiri
+76,1,7601,MAMUJU UTARA,"77,30%","74,93%","-8,20%",mandiri
+91,12,9112,PEGUNUNGAN BINTANG,"77,26%","77,26%","-10,20%",mandiri
+74,4,7404,BUTON,"77,07%","62,78%","-11,39%",mandiri
+74,11,7411,KOLAKA TIMUR,"77,05%","76,53%",#DIV/0!,mandiri
+62,11,6211,PULANG PISAU,"76,99%","75,35%","-15,57%",mandiri
+71,9,7109,KEP. SIAU TAGULANDANG BIARO,"76,97%","75,15%","-22,44%",mandiri
+75,4,7504,PAHUWATO,"76,92%","75,65%","-14,93%",mandiri
+14,10,1410,KEPULAUAN MERANTI,"76,89%","74,06%","-23,71%",mandiri
+13,74,1374,KOTA PADANG PANJANG,"76,87%","71,01%","-14,45%",mandiri
+17,8,1708,KEPAHIANG,"76,77%","70,45%","-29,09%",mandiri
+16,13,1613,MUSI RAWAS UTARA,"76,77%","74,72%","-37,15%",mandiri
+16,74,1674,KOTA PRABUMULIH,"76,74%","72,10%","5,65%",mandiri
+71,4,7104,KEPULAUAN TALAUD,"76,73%","75,54%","-17,96%",mandiri
+13,8,1308,PASAMAN,"76,70%","73,30%","-7,48%",mandiri
+53,5,5305,ALOR,"76,70%","76,70%","-10,16%",mandiri
+12,78,1278,KOTA GUNUNGSITOLI,"76,61%","74,67%","-10,00%",mandiri
+62,10,6210,GUNUNG MAS,"76,57%","76,75%","-22,98%",mandiri
+62,9,6209,LAMANDAU,"76,49%","74,03%","-18,45%",mandiri
+17,5,1705,SELUMA,"76,39%","72,59%","-8,76%",mandiri
+13,77,1377,KOTA PARIAMAN,"76,30%","70,94%","-22,79%",mandiri
+71,7,7107,MINAHASA TENGGARA,"76,25%","69,67%","-16,39%",mandiri
+12,22,1222,LABUHANBATU SELATAN,"76,16%","72,67%","-100,00%",mandiri
+14,7,1407,ROKAN HILIR,"76,14%","76,18%","-100,00%",mandiri
+12,25,1225,NIAS BARAT,"76,12%","69,55%","-18,80%",mandiri
+73,1,7301,KEPULAUAN SELAYAR,"76,12%","74,08%","-16,99%",mandiri
+82,4,8204,HALMAHERA SELATAN,"76,08%","76,40%","-12,70%",mandiri
+73,15,7315,PINRANG,"76,03%","73,66%","-20,75%",mandiri
+71,3,7103,KEPULAUAN SANGIHE,"75,99%","73,45%","-20,06%",mandiri
+62,3,6203,KAPUAS,"75,95%","57,74%","-32,03%",mandiri
+72,9,7209,TOJO UNA-UNA,"75,88%","74,08%","-19,27%",mandiri
+53,21,5321,MALAKA,"75,83%","72,44%","-12,03%",mandiri
+82,6,8206,HALMAHERA TIMUR,"75,83%","64,09%","-21,96%",mandiri
+65,71,6571,KOTA TARAKAN,"75,79%","71,02%","-14,60%",mandiri
+61,4,6104,KETAPANG,"75,79%","76,39%","-14,82%",mandiri
+76,3,7603,MAMASA,"75,68%","73,64%","-35,17%",mandiri
+61,1,6101,SAMBAS,"75,68%","74,30%","-14,47%",mandiri
+71,74,7174,KOTA KOTAMOBAGU,"75,66%","73,50%","-27,17%",mandiri
+61,6,6106,KAPUAS HULU,"75,65%","74,64%","-9,37%",mandiri
+12,75,1275,KOTA BINJAI,"75,57%","75,03%","-16,04%",mandiri
+63,11,6311,BALANGAN,"75,53%","69,35%","7,86%",mandiri
+74,8,7408,KOLAKA UTARA,"75,51%","66,75%","-38,53%",mandiri
+76,2,7602,MAMUJU,"75,44%","73,98%","-27,44%",mandiri
+61,2,6102,MEMPAWAH,"75,26%","73,65%","-14,31%",mandiri
+61,10,6110,MELAWI,"75,25%","73,19%","-100,00%",mandiri
+74,6,7406,BOMBANA,"75,24%","68,50%","-11,06%",mandiri
+19,5,1905,BANGKA BARAT,"75,22%","62,72%","-14,25%",mandiri
+62,5,6205,BARITO UTARA,"75,21%","72,41%","-14,15%",mandiri
+18,12,1812,TULANG BAWANG BARAT,"75,10%","69,09%","-47,22%",mandiri
+71,5,7105,MINAHASA SELATAN,"75,03%","74,46%","-12,42%",mandiri
+17,7,1707,LEBONG,"74,99%","74,54%","-28,64%",mandiri
+72,4,7204,TOLITOLI,"74,85%","74,04%","-27,50%",mandiri
+16,12,1612,PENUKAL ABAB LEMATANG ILIR,"74,83%","82,35%","-36,09%",mandiri
+21,72,2172,KOTA TANJUNGPINANG,"74,82%","71,39%","-100,00%",mandiri
+14,8,1408,SIAK,"74,79%","74,66%","45,84%",mandiri
+91,1,9101,MERAUKE,"74,76%","70,64%","-13,85%",mandiri
+81,7,8107,KEPULAUAN ARU,"74,72%","74,74%","-12,86%",mandiri
+62,13,6213,BARITO TIMUR,"74,70%","72,92%","-13,96%",mandiri
+75,5,7505,GORONTALO UTARA,"74,59%","72,35%","-20,69%",mandiri
+72,5,7205,BUOL,"74,58%","74,61%","-20,08%",mandiri
+13,12,1312,PASAMAN BARAT,"74,55%","71,25%","-14,09%",mandiri
+53,20,5320,SABU RAIJUA,"74,46%","64,12%","-9,15%",mandiri
+91,5,9105,KEPULAUAN YAPEN,"74,44%","60,65%",#DIV/0!,mandiri
+61,3,6103,SANGGAU,"74,44%","67,99%","-11,83%",mandiri
+53,3,5303,TIMOR TENGAH UTARA,"74,39%","69,81%","-7,15%",mandiri
+53,71,5371,KOTA KUPANG,"74,38%","72,26%","-13,04%",mandiri
+53,1,5301,KUPANG,"74,36%","72,52%","-14,40%",mandiri
+13,4,1304,TANAH DATAR,"74,29%","68,03%","-13,63%",mandiri
+73,5,7305,TAKALAR,"74,27%","73,93%","-8,88%",mandiri
+53,11,5311,SUMBA TIMUR,"74,26%","72,72%","-15,70%",mandiri
+14,1,1401,KAMPAR,"74,24%","72,89%","-100,00%",mandiri
+62,71,6271,KOTA PALANGKARAYA,"74,21%","72,67%","-13,85%",mandiri
+73,10,7310,PANGKAJENE DAN KEPULAUAN,"74,19%","73,77%","-17,51%",mandiri
+19,6,1906,BELITUNG TIMUR,"74,15%","68,38%","-12,46%",mandiri
+72,8,7208,PARIGI MOUTONG,"74,03%","70,08%","-16,75%",mandiri
+91,9,9109,MIMIKA,"73,98%","71,44%","-17,63%",mandiri
+53,6,5306,FLORES TIMUR,"73,87%","73,74%","-7,94%",mandiri
+13,76,1376,KOTA PAYAKUMBUH,"73,73%","68,83%","-18,51%",mandiri
+73,11,7311,BARRU,"73,71%","71,37%",#DIV/0!,mandiri
+14,4,1404,INDRAGIRI HILIR,"73,69%","66,41%","-100,00%",mandiri
+35,75,3575,KOTA PASURUAN,"73,68%","57,39%","-35,77%",mandiri
+15,5,1505,MUARO JAMBI,"73,61%","70,80%","-29,24%",mandiri
+15,9,1509,TEBO,"73,60%","71,68%","-10,64%",mandiri
+53,8,5308,ENDE,"73,58%","73,87%","-15,65%",mandiri
+15,2,1502,MERANGIN,"73,54%","64,42%","-12,15%",mandiri
+61,9,6109,SEKADAU,"73,45%","73,45%","-8,99%",mandiri
+73,4,7304,JENEPONTO,"73,32%","73,46%","-8,12%",mandiri
+53,12,5312,SUMBA BARAT,"73,30%","71,85%","-15,88%",mandiri
+62,4,6204,BARITO SELATAN,"73,30%","68,00%","-11,71%",mandiri
+72,71,7271,KOTA PALU,"73,20%","41,53%","-40,60%",mandiri
+53,7,5307,SIKKA,"73,19%","69,27%","-20,20%",mandiri
+73,73,7373,KOTA PALOPO,"73,03%","66,40%","-8,21%",mandiri
+73,13,7313,WAJO,"72,99%","72,99%","-17,38%",mandiri
+17,3,1703,BENGKULU UTARA,"72,96%","72,12%","-100,00%",mandiri
+16,5,1605,MUSI RAWAS,"72,94%","71,40%","-4,13%",mandiri
+53,4,5304,BELU,"72,94%","69,23%","-11,74%",mandiri
+71,6,7106,MINAHASA UTARA,"72,89%","72,19%","-12,25%",mandiri
+64,7,6407,KUTAI BARAT,"72,87%","70,84%","-13,15%",mandiri
+61,8,6108,LANDAK,"72,85%","72,21%","-0,75%",mandiri
+16,11,1611,EMPAT LAWANG,"72,85%","72,98%","-10,65%",mandiri
+52,5,5205,DOMPU,"72,83%","70,29%","-12,23%",mandiri
+82,2,8202,HALMAHERA TENGAH,"72,75%","60,94%","-8,81%",mandiri
+91,11,9111,KEEROM,"72,72%","76,54%","-31,59%",mandiri
+12,16,1216,HUMBANG HASUNDUTAN,"72,68%","68,14%","-13,90%",mandiri
+12,76,1276,KOTA TEBING TINGGI,"72,64%","68,38%","2,23%",mandiri
+91,24,9124,NDUGA,"72,62%","85,42%","-30,07%",mandiri
+82,71,8271,KOTA TERNATE,"72,57%","70,01%","-11,36%",mandiri
+64,9,6409,PENAJAM PASER UTARA,"72,55%","76,67%","-13,91%",mandiri
+12,6,1206,KARO,"72,52%","72,52%","-5,90%",mandiri
+12,11,1211,DAIRI,"72,49%","70,00%","-10,86%",mandiri
+18,11,1811,MESUJI,"72,43%","70,69%","-13,95%",mandiri
+18,4,1804,LAMPUNG BARAT,"72,40%","70,76%","-9,43%",mandiri
+72,2,7202,POSO,"72,37%","71,60%","-16,06%",mandiri
+12,1,1201,TAPANULI TENGAH,"72,34%","63,74%","-3,48%",mandiri
+61,72,6172,KOTA SINGKAWANG,"72,28%","69,61%","-13,76%",mandiri
+32,7,3207,CIAMIS,"72,23%","71,27%","5,29%",mandiri
+74,9,7409,KONAWE UTARA,"72,23%","69,91%","-11,18%",mandiri
+17,2,1702,REJANG LEBONG,"72,23%","68,06%","-5,21%",mandiri
+71,1,7101,BOLAANG MONGONDOW,"72,20%","70,64%","-20,50%",mandiri
+52,6,5206,BIMA,"72,19%","71,00%","-28,26%",mandiri
+12,17,1217,SAMOSIR,"72,18%","71,30%","-14,57%",mandiri
+16,3,1603,MUARA ENIM,"72,17%","72,20%","-2,37%",mandiri
+63,4,6304,BARITO KUALA,"72,15%","71,40%","-17,23%",mandiri
+17,71,1771,KOTA BENGKULU,"72,12%","61,14%","-100,00%",mandiri
+92,4,9204,SORONG SELATAN,"72,05%","72,54%","-100,00%",mandiri
+15,3,1503,SAROLANGUN,"71,88%","67,22%","-11,09%",mandiri
+91,8,9108,PANIAI,"71,87%","66,37%","-7,49%",mandiri
+12,8,1208,SIMALUNGUN,"71,85%","74,39%","-0,81%",mandiri
+63,1,6301,TANAH LAUT,"71,83%","56,21%","-17,58%",mandiri
+81,8,8108,MALUKU BARAT DAYA,"71,80%","69,42%","-10,17%",mandiri
+53,13,5313,LEMBATA,"71,78%","69,93%","-9,26%",mandiri
+76,4,7604,POLEWALI MANDAR,"71,50%","71,50%","-18,85%",mandiri
+91,22,9122,YALIMO,"71,50%","69,09%",#DIV/0!,mandiri
+52,4,5204,SUMBAWA,"71,49%","69,00%","-17,46%",mandiri
+52,2,5202,LOMBOK TENGAH,"71,45%","70,64%","-26,03%",mandiri
+17,4,1704,KAUR,"71,41%","69,55%","-11,24%",mandiri
+12,5,1205,LANGKAT,"71,40%","71,53%","-100,00%",mandiri
+15,4,1504,BATANGHARI,"71,39%","70,90%","-37,30%",mandiri
+91,17,9117,MAPPI,"71,29%","66,61%","-100,00%",mandiri
+91,7,9107,PUNCAK JAYA,"71,28%","69,86%","-100,00%",mandiri
+14,5,1405,PELALAWAN,"71,19%","65,61%","-100,00%",mandiri
+14,9,1409,KUANTAN SINGINGI,"71,13%","70,52%","-100,00%",mandiri
+35,20,3520,MAGETAN,"71,12%","69,83%","-19,95%",mandiri
+18,13,1813,PESISIR BARAT,"71,01%","68,97%","-22,51%",mandiri
+73,14,7314,SIDENRENG RAPPANG,"70,99%","69,49%","-12,05%",mandiri
+12,73,1273,KOTA SIBOLGA,"70,93%","70,79%","-10,84%",mandiri
+53,9,5309,NGADA,"70,90%","69,56%","-9,40%",mandiri
+73,18,7318,TANA TORAJA,"70,89%","70,89%","-8,11%",mandiri
+53,10,5310,MANGGARAI,"70,72%","71,08%","-13,05%",mandiri
+14,6,1406,ROKAN HULU,"70,70%","69,13%","0,40%",mandiri
+65,3,6503,NUNUKAN,"70,66%","70,08%","-39,31%",mandiri
+16,10,1610,OGAN ILIR,"70,65%","70,40%","-100,00%",mandiri
+16,9,1609,OGAN KOMERING ULU SELATAN,"70,62%","67,91%","-9,92%",mandiri
+92,7,9207,TELUK WONDAMA,"70,49%","69,23%","-62,35%",mandiri
+12,18,1218,SERDANG BEDAGAI,"70,48%","70,48%","-100,00%",mandiri
+73,16,7316,ENREKANG,"70,48%","69,89%","-20,71%",mandiri
+19,2,1902,BELITUNG,"70,34%","61,37%","-100,00%",mandiri
+91,3,9103,JAYAPURA,"70,30%","67,60%","-16,31%",mandiri
+18,5,1805,TULANG BAWANG,"70,28%","69,22%","-11,91%",mandiri
+35,28,3528,PAMEKASAN,"70,28%","55,01%","-31,84%",mandiri
+17,6,1706,MUKOMUKO,"70,26%","66,05%","-9,56%",mandiri
+63,7,6307,HULU SUNGAI TENGAH,"70,26%","63,18%","-10,44%",mandiri
+35,12,3512,SITUBONDO,"70,22%","66,62%","2,80%",mandiri
+18,8,1808,WAY KANAN,"70,21%","71,93%","-9,38%",mandiri
+19,4,1904,BANGKA TENGAH,"70,20%","67,91%","-100,00%",mandiri
+71,2,7102,MINAHASA,"70,10%","66,09%","-14,34%",mandiri
+74,5,7405,KONAWE SELATAN,"70,08%","71,01%","-28,40%",mandiri
+35,1,3501,PACITAN,"69,96%","69,92%","-100,00%",mandiri
+18,7,1807,LAMPUNG TIMUR,"69,95%","66,36%","-14,46%",mandiri
+53,2,5302,TIMOR TENGAH SELATAN,"69,93%","68,68%","-36,23%",mandiri
+32,78,3278,KOTA TASIKMALAYA,"69,92%","68,68%","3,28%",mandiri
+73,17,7317,LUWU,"69,90%","69,31%","-17,75%",mandiri
+63,5,6305,TAPIN,"69,81%","54,98%","-15,87%",mandiri
+73,2,7302,BULUKUMBA,"69,76%","69,94%","-17,00%",mandiri
+12,9,1209,ASAHAN,"69,67%","69,77%","-7,65%",mandiri
+35,11,3511,BONDOWOSO,"69,63%","65,16%","-10,16%",mandiri
+35,21,3521,NGAWI,"69,62%","65,21%","-7,07%",mandiri
+82,7,8207,PULAU MOROTAI,"69,62%","68,81%","-13,72%",mandiri
+16,7,1607,BANYUASIN,"69,61%","63,50%","58,48%",mandiri
+92,5,9205,RAJA AMPAT,"69,59%","70,11%","-11,04%",mandiri
+91,71,9171,KOTA JAYAPURA,"69,58%","69,09%","-12,03%",mandiri
+91,18,9118,ASMAT,"69,58%","69,58%","-42,74%",mandiri
+13,1,1301,PESISIR SELATAN,"69,56%","67,04%","-9,80%",mandiri
+73,3,7303,BANTAENG,"69,50%","71,07%","-16,11%",mandiri
+16,4,1604,LAHAT,"69,50%","66,21%","-24,06%",mandiri
+53,19,5319,MANGGARAI TIMUR,"69,48%","68,86%","-17,23%",mandiri
+19,1,1901,BANGKA,"69,37%","63,70%","14,87%",mandiri
+72,1,7201,BANGGAI,"69,34%","69,04%","-8,58%",mandiri
+73,6,7306,GOWA,"69,21%","65,59%","-17,75%",mandiri
+73,72,7372,KOTA PARE PARE,"69,19%","68,28%","-12,36%",mandiri
+35,5,3505,BLITAR,"69,17%","64,06%","-9,99%",mandiri
+18,3,1803,LAMPUNG UTARA,"69,13%","67,96%","-7,59%",mandiri
+92,10,9210,MAYBRAT,"69,11%","68,74%","-100,00%",mandiri
+18,2,1802,LAMPUNG TENGAH,"69,09%","66,97%","-10,81%",mandiri
+32,6,3206,TASIKMALAYA,"69,03%","68,60%","12,76%",mandiri
+19,71,1971,KOTA PANGKALPINANG,"69,02%","60,25%","-5,56%",mandiri
+18,9,1809,PESAWARAN,"68,96%","67,33%","-100,00%",mandiri
+81,71,8171,KOTA AMBON,"68,82%","68,30%","-20,50%",mandiri
+82,1,8201,HALMAHERA BARAT,"68,76%","71,19%","-14,94%",mandiri
+35,71,3571,KOTA KEDIRI,"68,76%","59,79%","-10,28%",mandiri
+13,75,1375,KOTA BUKITTINGGI,"68,73%","55,50%","-18,50%",mandiri
+33,12,3312,WONOGIRI,"68,65%","65,23%","-7,98%",mandiri
+92,8,9208,KAIMANA,"68,62%","64,99%","-29,28%",mandiri
+36,1,3601,PANDEGLANG,"68,43%","64,88%","-7,40%",mandiri
+16,1,1601,OGAN KOMERING ULU,"68,42%","65,81%","-61,81%",mandiri
+62,7,6207,SERUYAN,"68,39%","63,40%","-19,75%",mandiri
+12,13,1213,MANDAILING NATAL,"68,33%","67,26%","-100,00%",mandiri
+61,12,6112,KUBU RAYA,"68,30%","64,12%","-19,79%",mandiri
+33,14,3314,SRAGEN,"68,27%","64,77%","-6,37%",mandiri
+16,8,1608,OGAN KOMERING ULU TIMUR,"68,27%","70,18%","-23,50%",mandiri
+12,21,1221,PADANG LAWAS,"68,23%","66,09%","-100,00%",mandiri
+63,2,6302,KOTABARU,"68,05%","65,26%","-100,00%",mandiri
+32,8,3208,KUNINGAN,"68,02%","68,10%","-10,74%",mandiri
+92,12,9212,PEGUNUNGAN ARFAK,"68,01%","68,16%","-100,00%",mandiri
+35,29,3529,SUMENEP,"67,83%","59,98%","-19,22%",mandiri
+63,10,6310,TANAH BUMBU,"67,71%","59,50%","-0,89%",mandiri
+34,3,3403,GUNUNGKIDUL,"67,71%","62,82%","-9,97%",mandiri
+91,6,9106,BIAK NUMFOR,"67,70%","67,30%","-100,00%",mandiri
+18,72,1872,KOTA METRO,"67,68%","63,26%","-19,11%",mandiri
+91,14,9114,TOLIKARA,"67,56%","65,84%","-100,00%",mandiri
+12,12,1212,TOBA SAMOSIR,"67,55%","64,61%","-12,32%",mandiri
+92,9,9209,TAMBRAUW,"67,54%","76,75%","-16,70%",mandiri
+63,3,6303,BANJAR,"67,54%","60,26%","-9,31%",mandiri
+53,18,5318,SUMBA BARAT DAYA,"67,47%","63,68%","-8,24%",mandiri
+15,1,1501,KERINCI,"67,47%","64,82%","-33,87%",mandiri
+35,19,3519,MADIUN,"67,46%","65,13%","-13,89%",mandiri
+18,10,1810,PRINGSEWU,"67,46%","66,30%","-12,11%",mandiri
+92,11,9211,MANOKWARI SELATAN,"67,35%","71,11%","-100,00%",mandiri
+14,72,1472,KOTA DUMAI,"67,30%","65,50%","-20,23%",mandiri
+36,73,3673,KOTA SERANG,"67,28%","63,75%","-3,76%",mandiri
+35,27,3527,SAMPANG,"67,18%","64,21%","-28,11%",mandiri
+61,5,6105,SINTANG,"67,00%","60,47%","-9,40%",mandiri
+14,2,1402,INDRAGIRI HULU,"67,00%","60,82%","-12,04%",mandiri
+11,73,1173,KOTA LHOKSEUMAWE,"66,96%","66,20%","-21,61%",mandiri
+12,24,1224,NIAS UTARA,"66,94%","65,31%","-9,53%",mandiri
+73,8,7308,BONE,"66,88%","65,58%","-14,81%",mandiri
+35,3,3503,TRENGGALEK,"66,86%","63,72%","-22,67%",mandiri
+75,3,7503,BONE BOLANGO,"66,84%","66,38%","-16,29%",mandiri
+75,71,7571,KOTA GORONTALO,"66,80%","65,26%","-10,61%",mandiri
+75,1,7501,GORONTALO,"66,80%","64,32%","-11,36%",mandiri
+12,14,1214,NIAS SELATAN,"66,70%","61,68%","-7,52%",mandiri
+12,10,1210,LABUHANBATU,"66,62%","63,04%","-6,24%",mandiri
+52,3,5203,LOMBOK TIMUR,"66,60%","65,02%","-16,28%",mandiri
+62,1,6201,KOTAWARINGIN BARAT,"66,47%","62,95%","-0,53%",mandiri
+73,22,7322,LUWU UTARA,"66,38%","65,61%","-19,02%",mandiri
+64,74,6474,KOTA BONTANG,"66,30%","60,36%","-23,96%",mandiri
+52,1,5201,LOMBOK BARAT,"66,27%","61,27%","-13,85%",mandiri
+11,72,1172,KOTA SABANG,"66,26%","61,60%","-21,28%",mandiri
+73,26,7326,TORAJA UTARA,"66,21%","66,20%","-29,54%",mandiri
+64,3,6403,BERAU,"66,20%","66,20%","-7,75%",mandiri
+12,3,1203,TAPANULI SELATAN,"66,18%","64,84%","-15,57%",mandiri
+16,2,1602,OGAN KOMERING ILIR,"66,04%","59,78%","-22,57%",mandiri
+12,19,1219,BATU BARA,"65,83%","61,06%","-9,58%",mandiri
+35,4,3504,TULUNGAGUNG,"65,75%","61,46%","-17,75%",mandiri
+92,1,9201,SORONG,"65,72%","58,56%","-100,00%",mandiri
+35,72,3572,KOTA BLITAR,"65,64%","58,94%","-17,31%",mandiri
+33,16,3316,BLORA,"65,56%","64,16%","-5,55%",mandiri
+12,2,1202,TAPANULI UTARA,"65,52%","64,76%","-15,92%",mandiri
+32,79,3279,KOTA BANJAR,"65,47%","63,90%","-22,93%",mandiri
+12,20,1220,PADANG LAWAS UTARA,"65,23%","63,60%","-13,14%",mandiri
+63,6,6306,HULU SUNGAI SELATAN,"65,17%","59,24%","-5,83%",mandiri
+35,2,3502,PONOROGO,"65,14%","63,47%","-22,09%",mandiri
+62,2,6202,KOTAWARINGIN TIMUR,"65,02%","62,23%","-9,64%",mandiri
+32,13,3213,SUBANG,"65,00%","57,38%","10,17%",mandiri
+35,79,3579,KOTA BATU,"64,95%","64,95%","-16,56%",mandiri
+63,9,6309,TABALONG,"64,85%","61,14%","-7,93%",mandiri
+33,7,3307,WONOSOBO,"64,84%","61,07%","-10,17%",mandiri
+32,5,3205,GARUT,"64,83%","63,81%","-9,89%",mandiri
+63,72,6372,KOTA BANJARBARU,"64,80%","58,93%","-17,80%",mandiri
+91,2,9102,JAYAWIJAYA,"64,68%","63,32%","-27,16%",mandiri
+35,74,3574,KOTA PROBOLINGGO,"64,60%","59,12%","-9,44%",mandiri
+15,71,1571,KOTA JAMBI,"64,56%","50,93%","-5,77%",mandiri
+64,8,6408,KUTAI TIMUR,"64,55%","64,84%","-29,51%",mandiri
+32,18,3218,PANGANDARAN,"64,52%","60,95%","-11,62%",mandiri
+33,75,3375,KOTA PEKALONGAN,"64,44%","59,89%","-14,07%",mandiri
+73,9,7309,MAROS,"64,43%","63,47%","-10,67%",mandiri
+33,4,3304,BANJARNEGARA,"64,38%","62,11%","-8,71%",mandiri
+35,26,3526,BANGKALAN,"64,29%","62,59%","-100,00%",mandiri
+92,3,9203,FAKFAK,"64,04%","61,72%","-100,00%",mandiri
+35,22,3522,BOJONEGORO,"63,94%","40,78%","-14,60%",mandiri
+91,23,9123,LANNY JAYA,"63,92%","60,82%","-22,05%",mandiri
+21,1,2101,BINTAN,"63,90%","61,89%","-100,00%",mandiri
+63,8,6308,HULU SUNGAI UTARA,"63,87%","58,81%","1,44%",mandiri
+32,11,3211,SUMEDANG,"63,82%","64,15%","-3,32%",mandiri
+18,1,1801,LAMPUNG SELATAN,"63,56%","57,66%","-15,07%",mandiri
+11,13,1113,GAYO LUES,"63,54%","60,36%","-27,87%",mandiri
+35,77,3577,KOTA MADIUN,"63,53%","52,53%","-100,00%",mandiri
+51,7,5107,KARANGASEM,"63,35%","60,41%","-100,00%",mandiri
+51,6,5106,BANGLI,"63,33%","61,62%","-100,00%",mandiri
+35,76,3576,KOTA MOJOKERTO,"63,32%","55,29%","-7,76%",mandiri
+91,13,9113,YAHUKIMO,"63,14%","60,14%","-100,00%",mandiri
+33,11,3311,SUKOHARJO,"63,13%","53,81%","-4,13%",mandiri
+32,3,3203,CIANJUR,"63,07%","62,55%","-11,20%",mandiri
+33,27,3327,PEMALANG,"63,01%","57,50%","-100,00%",mandiri
+33,13,3313,KARANGANYAR,"62,85%","61,15%","-8,29%",mandiri
+35,9,3509,JEMBER,"62,83%","54,91%","-4,19%",mandiri
+35,8,3508,LUMAJANG,"62,77%","59,33%","-15,47%",mandiri
+33,10,3310,KLATEN,"62,74%","58,76%","-8,60%",mandiri
+33,9,3309,BOYOLALI,"62,64%","60,65%","-25,30%",mandiri
+74,1,7401,KOLAKA,"62,54%","62,64%",#DIV/0!,mandiri
+33,3,3303,PURBALINGGA,"62,42%","60,84%","-10,52%",mandiri
+18,6,1806,TANGGAMUS,"62,41%","62,47%","-19,75%",mandiri
+11,74,1174,KOTA LANGSA,"62,31%","62,43%","-100,00%",mandiri
+12,4,1204,NIAS,"62,25%","60,06%","6,74%",mandiri
+11,12,1112,ACEH BARAT DAYA,"62,21%","54,58%","-30,09%",mandiri
+33,25,3325,BATANG,"62,08%","60,44%","-19,24%",mandiri
+35,6,3506,KEDIRI,"62,06%","53,52%","-13,60%",mandiri
+63,71,6371,KOTA BANJARMASIN,"61,83%","51,79%","-10,67%",mandiri
+35,13,3513,PROBOLINGGO,"61,82%","60,85%","-10,69%",mandiri
+33,23,3323,TEMANGGUNG,"61,70%","59,83%","-6,84%",mandiri
+82,3,8203,HALMAHERA UTARA,"61,69%","59,95%","-0,61%",mandiri
+35,18,3518,NGANJUK,"61,57%","56,95%","-6,77%",mandiri
+71,71,7171,KOTA MANADO,"61,48%","53,88%","-25,50%",mandiri
+35,17,3517,JOMBANG,"61,42%","57,63%","-100,00%",mandiri
+33,15,3315,GROBOGAN,"61,36%","61,31%","-11,31%",mandiri
+33,71,3371,KOTA MAGELANG,"61,25%","56,60%","-16,61%",mandiri
+52,8,5208,LOMBOK UTARA,"61,20%","59,15%","-24,38%",mandiri
+33,76,3376,KOTA TEGAL,"61,02%","54,08%","-16,69%",mandiri
+11,75,1175,KOTA SUBULUSSALAM,"60,91%","60,63%","-24,73%",mandiri
+36,2,3602,LEBAK,"60,75%","60,39%","-7,02%",mandiri
+33,5,3305,KEBUMEN,"60,74%","57,63%","-11,23%",mandiri
+32,12,3212,INDRAMAYU,"60,69%","61,07%","-17,71%",mandiri
+33,73,3373,KOTA SALATIGA,"60,54%","58,21%","-11,65%",mandiri
+35,7,3507,MALANG,"60,50%","56,75%","-100,00%",mandiri
+33,18,3318,PATI,"60,45%","58,08%","-5,62%",mandiri
+11,17,1117,BENER MERIAH,"60,42%","60,42%","-31,37%",mandiri
+53,15,5315,MANGGARAI BARAT,"60,37%","58,83%","-16,37%",mandiri
+33,20,3320,JEPARA,"60,28%","57,35%","-19,31%",mandiri
+34,2,3402,BANTUL,"60,23%","56,31%","-28,55%",mandiri
+33,29,3329,BREBES,"60,22%","57,61%","-10,21%",mandiri
+92,71,9271,KOTA SORONG,"60,02%","68,54%","-100,00%",mandiri
+34,1,3401,KULON PROGO,"60,01%","60,15%","-22,70%",mandiri
+32,72,3272,KOTA SUKABUMI,"59,83%","58,12%","-8,71%",mandiri
+33,6,3306,PURWOREJO,"59,74%","55,28%","-16,91%",mandiri
+21,2,2102,KARIMUN,"59,61%","54,99%","-100,00%",mandiri
+74,71,7471,KOTA KENDARI,"59,60%","58,78%","-22,56%",mandiri
+33,1,3301,CILACAP,"59,40%","56,19%","-15,59%",mandiri
+72,6,7206,MOROWALI,"59,14%","59,05%","-12,52%",mandiri
+33,17,3317,REMBANG,"59,13%","56,94%","-18,86%",mandiri
+11,16,1116,ACEH TAMIANG,"59,11%","58,60%","-30,71%",mandiri
+33,24,3324,KENDAL,"59,08%","56,40%","-9,90%",mandiri
+33,22,3322,SEMARANG,"59,04%","56,82%","-13,86%",mandiri
+11,15,1115,NAGAN RAYA,"58,95%","57,58%","-32,81%",mandiri
+92,6,9206,TELUK BINTUNI,"58,84%","51,55%","-23,55%",mandiri
+32,2,3202,SUKABUMI,"58,78%","57,37%","-7,37%",mandiri
+33,19,3319,KUDUS,"58,71%","55,61%","1,75%",mandiri
+64,1,6401,PASER,"58,62%","54,86%","-26,85%",mandiri
+11,14,1114,ACEH JAYA,"58,57%","57,56%","-32,88%",mandiri
+51,1,5101,JEMBRANA,"58,46%","57,05%","-22,77%",mandiri
+52,71,5271,KOTA MATARAM,"58,26%","57,47%","-34,29%",mandiri
+32,17,3217,BANDUNG BARAT,"58,12%","50,04%","6,73%",mandiri
+33,26,3326,PEKALONGAN,"58,07%","55,04%","-12,38%",mandiri
+33,8,3308,MAGELANG,"57,97%","56,00%","-100,00%",mandiri
+35,23,3523,TUBAN,"57,93%","55,87%","-16,23%",mandiri
+74,2,7402,KONAWE,"57,72%","60,74%",#DIV/0!,mandiri
+32,9,3209,CIREBON,"57,60%","56,86%","11,29%",mandiri
+51,5,5105,KLUNGKUNG,"57,57%","53,06%","-28,06%",mandiri
+33,28,3328,TEGAL,"57,50%","57,16%","-14,11%",mandiri
+51,8,5108,BULELENG,"57,46%","56,81%",#DIV/0!,mandiri
+13,71,1371,KOTA PADANG,"57,39%","56,16%","-19,37%",mandiri
+33,2,3302,BANYUMAS,"57,36%","54,67%","-12,27%",mandiri
+92,2,9202,MANOKWARI,"57,25%","54,95%","-100,00%",mandiri
+35,16,3516,MOJOKERTO,"57,06%","54,97%","-9,67%",mandiri
+35,14,3514,PASURUAN,"56,89%","52,76%","-12,46%",mandiri
+33,21,3321,DEMAK,"56,87%","54,92%","-9,10%",mandiri
+33,72,3372,KOTA SURAKARTA,"56,86%","54,45%","-8,16%",mandiri
+11,18,1118,PIDIE JAYA,"56,72%","56,72%","-100,00%",mandiri
+73,24,7324,LUWU TIMUR,"56,60%","54,79%","-21,84%",mandiri
+32,4,3204,BANDUNG,"56,32%","49,74%","-4,99%",mandiri
+32,77,3277,KOTA CIMAHI,"56,20%","53,22%","-11,39%",mandiri
+51,2,5102,TABANAN,"55,49%","53,83%","-24,48%",mandiri
+35,24,3524,LAMONGAN,"55,46%","55,07%","-6,12%",mandiri
+32,14,3214,PURWAKARTA,"54,98%","53,67%","-3,59%",mandiri
+36,4,3604,SERANG,"54,72%","52,36%","-100,00%",mandiri
+14,71,1471,KOTA PEKANBARU,"54,24%","54,20%","-100,00%",mandiri
+35,73,3573,KOTA MALANG,"53,47%","44,79%","-11,08%",mandiri
+61,71,6171,KOTA PONTIANAK,"53,23%","51,80%","-17,60%",mandiri
+12,7,1207,DELI SERDANG,"52,40%","52,05%","-0,45%",mandiri
+15,8,1508,BUNGO,"51,05%","51,10%","-7,81%",mandiri
+32,74,3274,KOTA CIREBON,"50,22%","49,06%","-12,51%",mandiri
+34,4,3404,SLEMAN,"50,18%","47,83%","-18,70%",mandiri
+64,71,6471,KOTA BALIKPAPAN,"49,79%","46,73%","-25,07%",tergantung
+32,10,3210,MAJALENGKA,"49,48%","48,81%","-7,44%",tergantung
+64,72,6472,KOTA SAMARINDA,"49,24%","47,46%","-19,73%",tergantung
+18,71,1871,KOTA BANDAR LAMPUNG,"48,37%","49,64%","-9,46%",tergantung
+34,71,3471,KOTA YOGYAKARTA,"48,20%","45,47%","-16,30%",tergantung
+36,72,3672,KOTA CILEGON,"48,12%","43,81%","-20,66%",tergantung
+32,15,3215,KARAWANG,"47,48%","46,93%","-7,59%",tergantung
+16,71,1671,KOTA PALEMBANG,"45,24%","44,90%","12,98%",tergantung
+73,71,7371,KOTA MAKASSAR,"44,76%","43,92%","-15,66%",tergantung
+35,25,3525,GRESIK,"43,88%","41,99%","-100,00%",tergantung
+32,71,3271,KOTA BOGOR,"43,32%","40,49%","-3,11%",tergantung
+51,71,5171,KOTA DENPASAR,"41,06%","37,43%","-22,20%",tergantung
+35,15,3515,SIDOARJO,"40,52%","34,26%","-9,81%",tergantung
+12,71,1271,KOTA MEDAN,"38,08%","37,53%","-19,55%",tergantung
+21,71,2171,KOTA BATAM,"37,93%","37,24%","-30,30%",tergantung
+51,4,5104,GIANYAR,"37,42%","31,38%","-26,35%",tergantung
+32,73,3273,KOTA BANDUNG,"35,77%","33,07%","-7,51%",tergantung
+33,74,3374,KOTA SEMARANG,"35,64%","34,54%","-24,30%",tergantung
+32,76,3276,KOTA DEPOK,"34,60%","29,43%","-6,95%",tergantung
+32,1,3201,BOGOR,"33,97%","29,92%","-0,34%",tergantung
+32,16,3216,BEKASI,"33,07%","29,77%","-5,50%",tergantung
+36,3,3603,TANGERANG,"31,24%","28,75%","-17,36%",tergantung
+36,71,3671,KOTA TANGERANG,"29,79%","26,43%","-27,80%",tergantung
+32,75,3275,KOTA BEKASI,"28,54%","28,66%","-13,71%",tergantung
+36,74,3674,KOTA TANGERANG SELATAN,"24,99%","22,58%","-20,77%",tergantung
+35,78,3578,KOTA SURABAYA,"24,95%","21,96%","-14,28%",tergantung
+35,10,3510,BANYUWANGI,"14,31%","14,16%",#DIV/0!,tergantung
+51,3,5103,BADUNG,"9,53%","9,53%","-34,07%",tergantung
